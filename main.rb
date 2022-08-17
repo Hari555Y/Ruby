@@ -1,1 +1,2 @@
-puts "Hello World"
+load "hello_there.rb"
+
